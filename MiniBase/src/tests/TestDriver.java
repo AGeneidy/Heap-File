@@ -54,8 +54,8 @@ public class TestDriver {
     //To port it to a different platform, get "user.name" should
     //still work well because this feature is not meant to be UNIX
     //dependent. 
-	    dbpath = "D:\\"+nameRoot+System.getProperty("user.name")+".minibase-db"; 
-	    logpath = "D:\\"+nameRoot +System.getProperty("user.name")+".minibase-log";  
+	    dbpath = "E:\\"+nameRoot+System.getProperty("user.name")+".minibase-db"; 
+	    logpath = "E:\\"+nameRoot +System.getProperty("user.name")+".minibase-log";  
   }
 
   /**
